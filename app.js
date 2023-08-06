@@ -1,4 +1,4 @@
-const APIURL=`http://www.omdbapi.com?type=movie&apikey=a0c5feed`;
+const APIURL=`https://www.omdbapi.com?type=movie&apikey=a0c5feed`;
 
 const movieBox  = document.getElementById("movie-box");
 const textBox = document.getElementById("search");
